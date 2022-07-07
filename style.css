@@ -1,0 +1,154 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#firstp {
+    color: aliceblue;
+}
+
+.bold {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    margin-top: 0%;
+}
+
+.head {
+    padding: 15%;
+    background-image: url(donation13.jpg);
+    background-size: cover;
+    height: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.newparagraph {
+    text-align: center;
+    color: black;
+}
+
+.box {
+    width: 20%;
+    padding: 10px;
+}
+
+.box1 {
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 3px;
+    padding: 50px;
+    background-color: rgba(229, 237, 238, 0.87);
+}
+
+.box2 {
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 3px;
+    padding: 50px;
+    background-color: rgba(241, 216, 220, 0.904);
+}
+
+.box3 {
+    border-right: 6px;
+    border-left: 10%;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 3px;
+    padding: 50px;
+    background-color: rgba(245, 245, 213, 0.993);
+}
+
+.box4 {
+    margin: 20px 40px 30px 90px;
+    width: 70%;
+    padding: 90px;
+    background-color: rgba(245, 245, 213, 0.993);
+}
+
+.button {
+    text-align: center;
+    color: solid;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(252, 30, 30), rgb(255, 0, 119));
+    border-radius: 3px;
+    padding: 10px 15px;
+    color: white;
+}
+
+.new-tab {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+.new {
+    text-align: center;
+    margin-left: 100px;
+    color: gray;
+    background-color: rgba(128, 128, 128, 0.068);
+    width: 5%;
+    padding: 2%;
+    border-radius: 4px;
+}
+
+.red {
+    background-color: rgb(248, 233, 235);
+    color: red;
+    box-shadow: 2px coral;
+    border: 2px solid coral;
+}
+
+.small {
+    text-align: center;
+    color: grey;
+}
+
+#mandatory {
+    text-align: center;
+}
+
+#hrr {
+    color: grey;
+    width: 500px;
+    text-align: justify;
+}
+
+.flexi {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.halfpic {
+    width: 50%;
+    padding: 2%;
+}
+
+.halfpic img {
+    width: 90%;
+}
+
+.update {
+    width: 100%;
+    margin-bottom: 150px;
+}
+
+.picture img {
+    width: 40%;
+    padding-left: 30%;
+    margin: 1%;
+}
+
+.inputbutton {
+    width: 50%;
+    margin-left: 100px;
+}
+
+footer {
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
